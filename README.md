@@ -163,4 +163,4 @@ npx serve .
 Desenvolvido por Paulo André Silva de Lima, como projeto de estudo de front-end.
 
 > Feito com desempenho e dedicação.
->>>>>>> 1fb76aad497cbd8324cae5e5ba0675857bd49856
+
