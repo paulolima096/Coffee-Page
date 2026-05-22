@@ -1,10 +1,10 @@
-# ☕ Lima's Café — Landing Page
+# ☕ The Coffee — Landing Page
 
 Uma landing page estática para cafeteria, desenvolvida com HTML5 e CSS3 puro. O projeto apresenta o cardápio, seção "Sobre nós", avaliações de clientes, localização e rodapé com redes sociais.
 
 ## Visão Geral
 
-A **Lima's Café** é uma página de apresentação de cafeteria com design escuro e elegante. Desenvolvida como projeto front-end, ela simula uma vitrine digital com navegação, menu de produtos, depoimentos de clientes e localização via Google Maps.
+A **The Coffee** é uma página de apresentação de cafeteria com design escuro e elegante. Desenvolvida como projeto front-end, ela simula uma vitrine digital com navegação, menu de produtos, depoimentos de clientes e localização via Google Maps.
 
 **Preview das seções:**
 
