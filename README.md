@@ -52,36 +52,36 @@ Coffee-Page/
 
 ## Seções da Página
 
-### 🔝 Header (Cabeçalho)
+###  Header (Cabeçalho)
 - Fixo no topo da tela (`position: fixed`)
 - Contém: logo, menu de navegação com 6 links e ícones de busca e carrinho
 - Links de âncora para todas as seções: `#home`, `#about`, `#menu`, `#review`, `#address`, `#contact`
 - Ícones externos via [Icons8](https://icons8.com)
 
-### 🏠 Home (Hero)
+###  Home (Hero)
 - Fundo com imagem de cobertura total (`background-size: cover`, altura `100vh`)
 - Texto de destaque com chamada para ação
 - Botão "Pegue o seu agora"
 
-### ℹ️ Sobre Nós (`#about`)
+###  Sobre Nós (`#about`)
 - Layout em duas colunas: imagem à esquerda, texto à direita
 - Fundo escuro (`--black: #13131a`)
 - Botão "Saiba Mais"
 
-### 🍵 Menu (`#menu`)
+###  Menu (`#menu`)
 - Grade responsiva com `grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr))`
 - 6 itens com imagem, nome, preço promocional e botão de carrinho
 - Efeito hover: fundo branco com texto escuro
 
-### 💬 Avaliações (`#review`)
+###  Avaliações (`#review`)
 - Grade de 3 colunas (colapsa para 1 coluna em telas ≤ 768px)
 - Cada card: ícone de aspas, texto do depoimento, foto circular do cliente, nome e estrelas
 - Estrelas via Icons8 (4,5 estrelas para todos os clientes)
 
-### 📍 Endereço (`#address`)
+###  Endereço (`#address`)
 - `<iframe>` do Google Maps incorporado apontando para a unidade The Coffee
 
-### 🦶 Footer (Rodapé)
+###  Footer (Rodapé)
 - Ícones clicáveis de Instagram, Facebook e Twitter/X
 - Efeito hover com fundo dourado nos ícones
 
